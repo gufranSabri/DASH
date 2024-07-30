@@ -2,8 +2,6 @@
 
 Welcome to the official GitHub repository for DASH, a meticulously designed quadruped robot that combines state-of-the-art hardware and software to provide advanced interaction capabilities.
 
-![DASH Quadruped Robot](images/ConceptualHardware.png)
-
 ## Overview
 
 DASH is a cost-effective quadruped robot that goes beyond basic locomotion to include a range of advanced features. The project involves comprehensive processes from 3D modeling, printing, and assembly to the integration of sophisticated software and hardware systems.
@@ -17,6 +15,8 @@ DASH is a cost-effective quadruped robot that goes beyond basic locomotion to in
 - **ROS2 Integration**: Core functionalities served on a ROS2 system to ensure robust and flexible operation.
 
 ### Hardware
+
+![DASH Quadruped Robot](images/ConceptualHardware.png)
 
 DASH's hardware components are meticulously connected and integrated to ensure smooth and precise operation. This includes:
 

@@ -1,4 +1,4 @@
-# DASH: Advanced Quadruped Robot
+# DASH: Quadruped Development Kit
 
 Welcome to the official GitHub repository for DASH, a meticulously designed quadruped robot that combines state-of-the-art hardware and software to provide advanced interaction capabilities.
 
